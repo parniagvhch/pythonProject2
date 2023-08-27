@@ -1,5 +1,6 @@
 import math
 
+
 class NDimensional:
     def __init__(self, *more ):
         self.more = more
